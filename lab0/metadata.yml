@@ -1,0 +1,12 @@
+---
+:id: 300789994
+:submitters:
+- :name: ANEEKET YADAV
+  :email: cs1221116@cse.iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-01-20 17:48:50.655908000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-01-20 09:48:50.655908000 Z
+:status: processed
+:score: 9.0
